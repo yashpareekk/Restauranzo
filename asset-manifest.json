@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Restauranzo/static/css/main.71ac0ad5.css",
+    "main.js": "/Restauranzo/static/js/main.6d8bd8f4.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Restauranzo/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Restauranzo/index.html",
+    "main.71ac0ad5.css.map": "/Restauranzo/static/css/main.71ac0ad5.css.map",
+    "main.6d8bd8f4.js.map": "/Restauranzo/static/js/main.6d8bd8f4.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Restauranzo/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71ac0ad5.css",
+    "static/js/main.6d8bd8f4.js"
+  ]
+}
